@@ -4,14 +4,14 @@
 
 <h2> Project Structure:</h2>
 
-my-spring-boot-app/ 
-├── src/ 
-│ ├── main/ 
-│ │ ├── java/ 
-│ │ │   └── com/ 
-│ │ │     └── example/ 
-│ │ │        └── aggregator/ 
-│ │ │            ├── BankStatementAggregatorapplicatio.java 
+my-spring-boot-app/    
+├── src/    
+│ ├── main/   
+│ │ ├── java/   
+│ │ │   └── com/    
+│ │ │     └── example/    
+│ │ │        └── aggregator/    
+│ │ │            ├── BankStatementAggregatorapplicatio.java   
 │ │ │            ├── config/ 
 │ │ │            │ ├── SecurityConfig.java 
 │ │ │            ├── controllers/ 
