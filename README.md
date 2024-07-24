@@ -11,51 +11,51 @@ my-spring-boot-app/
 │ │ │   └── com/    
 │ │ │     └── example/    
 │ │ │        └── aggregator/    
-│ │ │            ├── BankStatementAggregatorapplicatio.java   
-│ │ │            ├── config/ 
-│ │ │            │ ├── SecurityConfig.java 
-│ │ │            ├── controllers/ 
-│ │ │            │ ├── BranchController.java 
-│ │ │            │ ├── CompanyController.java      
-│ │ │            │ └── StatementController.java 
-│ │ │            │ └── UserController.java 
-│ │ │            ├── services/ 
-│ │ │            │ ├── AWSservice.java 
-│ │ │            │ ├── BankStatementservice.java 
-│ │ │            │ └── CompanyService.java 
-│ │ │            │ └── UserService.java 
-│ │ │            │ └── BranchServie.java 
-│ │ │            ├── repositories/ 
-│ │ │            │ ├── BankStatementRepository.java 
-│ │ │            │ ├── BrancjRepository.java 
-│ │ │            │ └── CompanyRepository.java 
-│ │ │            │ └── TransactionRepository.java 
-│ │ │            │ └── UserRepository.java 
-│ │ │            ├── model/ 
-│ │ │            │ ├── BankStatement.java 
-│ │ │            │ ├── Branch.java 
-│ │ │            │ └── Company.java 
-│ │ │            │ ├── Transaction.java 
-│ │ │            │ ├── User.java 
-│ │ └── resources/ 
-│ │      ├── application.properties 
-│ │          └── static/ 
-│ │            └── css/ 
-│ │               └── js/ 
-│ │                 └── templates/ 
-│ │                    └── index.html 
-│ └── test/ 
-│    └── java/ 
-│       └── com/ 
-│         └── example/ 
-│               └── myapp/
-│                  └── BankStatementAggregatorApplication.java/
-│── JRE System Library [JavaSE-17]
-│── Maven Dependencies
-│── src/
-│── target/
-│── HELP.md
-│── mvnw
+│ │ │            ├── BankStatementAggregatorapplicatio.java    
+│ │ │            ├── config/   
+│ │ │            │ ├── SecurityConfig.java   
+│ │ │            ├── controllers/   
+│ │ │            │ ├── BranchController.java   
+│ │ │            │ ├── CompanyController.java    
+│ │ │            │ └── StatementController.java   
+│ │ │            │ └── UserController.java   
+│ │ │            ├── services/   
+│ │ │            │ ├── AWSservice.java   
+│ │ │            │ ├── BankStatementservice.java   
+│ │ │            │ └── CompanyService.java   
+│ │ │            │ └── UserService.java   
+│ │ │            │ └── BranchServie.java   
+│ │ │            ├── repositories/   
+│ │ │            │ ├── BankStatementRepository.java   
+│ │ │            │ ├── BrancjRepository.java   
+│ │ │            │ └── CompanyRepository.java    
+│ │ │            │ └── TransactionRepository.java   
+│ │ │            │ └── UserRepository.java   
+│ │ │            ├── model/   
+│ │ │            │ ├── BankStatement.java   
+│ │ │            │ ├── Branch.java   
+│ │ │            │ └── Company.java   
+│ │ │            │ ├── Transaction.java   
+│ │ │            │ ├── User.java   
+│ │ └── resources/   
+│ │      ├── application.properties   
+│ │          └── static/   
+│ │            └── css/   
+│ │               └── js/   
+│ │                 └── templates/   
+│ │                    └── index.html   
+│ └── test/   
+│    └── java/   
+│       └── com/   
+│         └── example/   
+│               └── myapp/  
+│                  └── BankStatementAggregatorApplication.java/  
+│── JRE System Library [JavaSE-17]  
+│── Maven Dependencies  
+│── src/   
+│── target/  
+│── HELP.md  
+│── mvnw  
 │── mvnw.cmd
   
 <h2>💻 Built with</h2>
